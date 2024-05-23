@@ -3,14 +3,34 @@
     <string name="details">Details</string>
 
     <string-array name="bands">
-        <item>The Beatles</item>
-        <item>Nirvana</item>
-        <item>U2</item>
+        <item>Have Heart</item>
+        <item>Gorilla Biscuits</item>
+        <item>Fiddlehead</item>
+        <item>Refused</item>
+        <item>Crime in Stereo</item>
+        <item>Reach the Sky</item>
+        <item>Hot Water Music</item>
+        <item>VERSE</item>
+        <item>Righteous Jams</item>
+        <item>Mental</item>
+        <item>In My Eyes</item>
+        <item>Turnstile</item>
+        <item>Scowl</item>
     </string-array>
 
     <string-array name="descriptions">
         <item>An English rock band that formed in Liverpool in 1960.</item>
         <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
         <item>An Irish rock band from Dublin that formed in 1976.</item>
     </string-array>
 </resources>
